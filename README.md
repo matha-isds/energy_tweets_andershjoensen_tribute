@@ -1,0 +1,2 @@
+# energy_tweets_andershjoensen_tribute
+Strongly inspired by github account andershjoensen and his work on scraping and displaying Danish Twitter data, this repo will follow his approach on scraping Danish and european Twitter data, however focused on the areas of green gas-based energy, i.e. PtX and biomethane. This will serve as coding practice for a beginner programmer, so all constructive feedback is greatly appreciated.
